@@ -20,7 +20,7 @@ public class UseCase2HotelBookingApp {
      * @param args command-line arguments (not used)
      */
     public static void main(String[] args) {
-        System.out.println("============================================");
+         System.out.println("============================================");
         System.out.println("   BookMyStay - Room Inventory Overview    ");
         System.out.println("   Use Case 2: Room Object Modeling        ");
         System.out.println("============================================\n");
